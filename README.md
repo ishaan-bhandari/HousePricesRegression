@@ -2,12 +2,10 @@
 
 ## Kaggle House Price Prediction Competition
 
-### **Author:** Ishaan Bhandari
-
 ### **Project Overview**
 This project is part of the Kaggle competition aimed at predicting residential house prices based on a comprehensive set of features provided in the House Prices Dataset. Utilizing advanced machine learning techniques, the goal is to build models that can accurately predict the sales prices of houses.
 
-### **Dataset**
+### **[Dataset]([url](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview))**
 The dataset includes 1460 observations, each with various features detailing aspects of residential homes. These features include both physical attributes (like square footage and number of rooms) and locational advantages (like proximity to various amenities). The dataset is split into:
 
 Training data: 1168 observations used for training the models.
